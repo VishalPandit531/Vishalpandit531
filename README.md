@@ -8,10 +8,10 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=200&section=header&text=Vishal%20Pandit&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=17"
     width="100%"
-    alt="Vishal Pandit profile banner"
+    alt="Vishal Kumar Pandit profile banner"
   />
 
-  <h1>Hi 👋, I'm Vishal Pandit</h1>
+  <h1>Hi 👋, I'm Vishal Kumar Pandit</h1>
 
   <h3>Data Analyst | Data Analytics Enthusiast</h3>
 
